@@ -1,6 +1,6 @@
-## 🙋‍ Olá, me chamo Maria Eduarda, bem vindo(a) ao meu Github! :)
-- 👩🏻‍💻 Embarquei nesse mundo tecnológico há alguns anos átras, e agora estou tendo a oportunidade de me graduar em Ánalise e Desenvolvimento de Sistemas na Universidade Católica de Brasília, e conhecer um pouco mais de programação.
-- 🎮 Tenho conhecimentos básicos/intermediários nas seguintes linguagens/frameworks: HTML | CSS | JavaScript | Node.js | Java | PHP | Laravel | C | MySQL.
+## 🙋‍ Olá, me chamo Maria Eduarda, e bem vindo(a) ao meu Github! :)
+- 👩🏻‍💻 Embarquei nesse mundo tecnológico há alguns anos átras, e agora estou tendo a oportunidade de me graduar em Ánalise e Desenvolvimento de Sistemas na Universidade Católica de Brasília, para dessa forma tentar conhecer um pouco mais das áreas de programação.
+- 🎮 Tenho conhecimentos básicos/intermediários nas seguintes linguagens/frameworks/IDEs: HTML | CSS | JavaScript | Node.js | Java | IntelliJ | Eclipse | PHP | Laravel | C | MySQL.
 
 ##
 
